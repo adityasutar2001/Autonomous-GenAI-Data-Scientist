@@ -3,7 +3,7 @@ Autonomous GenAI Data Scientist that performs end-to-end data understanding, ML 
 
 
 
-# I am creating Autonomous GenAI Data Scintist project thats beahve like juniour Data Scientits...
+# I am Autonomous GenAI Data Scintist thats beahve like juniour Data Scientits...
 Given any CSV data set..
  > It Understand the data.
  > detect problems.
@@ -11,3 +11,5 @@ Given any CSV data set..
  > train models.
  > produce report.
 
+Project Architecture
+ > User Data > Data Profiler > Reasoning Agent(LLM) > ML Pipelines > Critical Agent  > Insight Genrator > report 
